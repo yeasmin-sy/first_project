@@ -1,0 +1,65 @@
+/* h1{
+    color: aquamarine;
+}
+body{
+    background-color: rgb(235, 173, 98);
+}
+button{
+    background-color: aqua;
+    color: brown;
+} */
+
+/* h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    font-weight:lighter;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-weight: bolder;
+} */
+
+/* p{
+    line-height:normal;
+    text-transform:capitalize;
+} */
+
+/* .mydiv{
+
+    border:5px outset red;
+    background-color: lightblue;
+    text-align: center;
+
+}
+h1{
+    border:5px outset red;
+} */
+
+.one{
+    height: 90px;
+    background-color: rgb(193, 237, 223);
+    width: 90px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: brown;
+    border-radius: 50%;
+    padding-top: 50px;
+    padding-left: 10px;
+    margin:50px;
+}
+h1{
+    height: 120px;
+    background-color: #e3cccc;
+    width: 300px;
+    /* border-width: 5px;
+    border-style: dashed;
+    border-color:black; */
+    border: 3px solid pink;
+    border-radius: 10px;
+    padding:50px 50px 70px 50px;
+    margin: 50px 5px 5px 50px;
+}
